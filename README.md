@@ -16,7 +16,7 @@ Arrow Keys - up, down, left, right movement of Pacman
 
 Spacebar - fire portal (maximum 2 portals at a time)
 
-Picture  
+Pictures  
 --------
 <a href="https://ibb.co/5BRsPdp"><img src="https://i.ibb.co/Pw61dRX/image.png" alt="image" border="0" /></a>
 
